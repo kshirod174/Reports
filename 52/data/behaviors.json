@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+    "uid" : "76628e4a7164b2ad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595076051864,
+      "stop" : 1595076063224,
+      "duration" : 11360
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+    "uid" : "4bfa95b5d33d8912",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595076075741,
+      "stop" : 1595076086099,
+      "duration" : 10358
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1" ]
+  } ]
+}

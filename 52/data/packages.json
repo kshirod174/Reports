@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testCases",
+    "children" : [ {
+      "name" : "DoodlesTest",
+      "children" : [ {
+        "name" : "TC_ValidateDoodlesPage",
+        "uid" : "76628e4a7164b2ad",
+        "parentUid" : "722991a3b9b464205d92f9cea90207a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595076051864,
+          "stop" : 1595076063224,
+          "duration" : 11360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "722991a3b9b464205d92f9cea90207a7"
+    }, {
+      "name" : "GoogleSearchTest",
+      "children" : [ {
+        "name" : "TC_SearchInGoogle",
+        "uid" : "4bfa95b5d33d8912",
+        "parentUid" : "767ad44ac1e95dfd79751a383f98a7f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595076075741,
+          "stop" : 1595076086099,
+          "duration" : 10358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      } ],
+      "uid" : "767ad44ac1e95dfd79751a383f98a7f5"
+    } ],
+    "uid" : "cfc8e8fdd97a2be9c902f7e7586bd330"
+  } ]
+}
